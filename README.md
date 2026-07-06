@@ -1,4 +1,4 @@
 # codewithyash-demo
 this is my first git repository.
 <br>
-Author- Yash raj Kapoor
+Author- Yash Kapoor
